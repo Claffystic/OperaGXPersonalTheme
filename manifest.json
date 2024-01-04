@@ -1,0 +1,94 @@
+{
+    "name": "Claffystic's Theme",
+    "description": "Personal Browser Theme",
+    "developer": {
+        "name": "Claffystic"
+    },
+    "icons": {
+        "512": "icon_512.png"
+    },
+    "manifest_version": 3,
+    "mod": {
+        "license": "license.txt",
+        "payload": {
+            "browser_sounds": {
+                "CLICK": [
+                    "sound/click.mp3"
+                ],
+                "FEATURE_SWITCH_OFF": [
+                    "sound/switch.mp3"
+                ],
+                "FEATURE_SWITCH_ON": [
+                    "sound/switch.mp3"
+                ],
+                "HOVER": [
+                    "sound/hover.mp3"
+                ],
+                "HOVER_UP": [
+                    "sound/hover.mp3"
+                ],
+                "LIMITER_OFF": [
+                    "sound/switch.mp3"
+                ],
+                "LIMITER_ON": [
+                    "sound/switch.mp3"
+                ],
+                "SWITCH_TOGGLE": [
+                    "sound/switch.mp3"
+                ],
+                "TAB_CLOSE": [
+                    "sound/tabclose.mp3"
+                ],
+                "TAB_INSERT": [
+                    "sound/click.mp3"
+                ]
+            },
+            "keyboard_sounds": {
+                "TYPING_BACKSPACE": ["sound/BACKSPACE.mp3"],
+                "TYPING_ENTER": ["sound/ENTER.mp3"],
+                "TYPING_LETTER": ["sound/a.mp3", "sound/b.mp3", "sound/c.mp3", "sound/d.mp3", "sound/e.mp3", "sound/f.mp3", "sound/g.mp3", "sound/h.mp3", "sound/i.mp3", "sound/j.mp3", "sound/k.mp3", "sound/l.mp3", "sound/m.mp3", "sound/n.mp3", "sound/o.mp3", "sound/p.mp3", "sound/q.mp3", "sound/r.mp3", "sound/t.mp3", "sound/v.mp3", "sound/x.mp3", "sound/y.mp3", "sound/z.mp3", "sound/s.mp3", "sound/w.mp3"],
+                "TYPING_SPACE": ["sound/SPACE.mp3"]
+            },
+            "theme": {
+                "dark": {
+                    "gx_accent": {
+                        "h": 232,
+                        "s": 97,
+                        "l": 85
+                    },
+                    "gx_secondary_base": {
+                        "h": 240,
+                        "s": 21,
+                        "l": 15
+                    }
+                },
+                "light": {
+                    "gx_accent": {
+                        "h": 231,
+                        "s": 97,
+                        "l": 72
+                    },
+                    "gx_secondary_base": {
+                        "h": 220,
+                        "s": 23,
+                        "l": 95
+                    }
+                }
+            },
+            "wallpaper": {
+                "dark": {
+                    "image": "wallpaper/wp.png",
+                    "text_color": "#cdd6f4",
+                    "text_shadow": "#11111b"
+                },
+                "light": {
+                    "image": "wallpaper/wp.png",
+                    "text_color": "#4c4f69",
+                    "text_shadow": "#dce0e8"
+                }
+            }
+        },
+        "schema_version": 1
+    },
+    "version": "1.0"
+}
