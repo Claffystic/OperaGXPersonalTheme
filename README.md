@@ -1,7 +1,7 @@
 # Claffystic's Theme
 Personal Theme for Opera GX
 
-Check licenses for credits.
+Check license for credits.
 
 ## Installation
 
