@@ -3,7 +3,7 @@ Personal Theme for Opera GX
 
 Check licenses for credits.
 
-# Installation
+## Installation
 
 1. Clone the repo
 2. Go to opera://mods/
